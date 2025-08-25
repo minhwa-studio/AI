@@ -8,6 +8,4 @@
 ### SAM
 
 ## 모델 학습
-### 1. LoRA + SD3
-### 2. DreamBooth + SD3
-### 3. LoRA & DreamBooth + SD3
+### LoRA & DreamBooth + SDv1.5
